@@ -1,15 +1,41 @@
-body {
-    text-align: center;
-}
-.who button {
-    border-radius: 10px;
-    background: rgb(255, 0, 47);
-    color: white;
-    border: none;
-    padding: 15px 15px;
-    cursor: pointer;
-}
-.who button:hover {
-    border-radius: 3px;
-    transition: 0.1s all;
-}
+     body {
+            text-align: center;
+        }
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+        }
+        .contenu {
+            flex: 1; /* Prend tout l'espace disponible */
+            padding: 20px;
+        }
+        .who button {
+            border-radius: 5px;
+            background: rgb(255, 0, 47);
+            color: white;
+            border: none;
+            padding: 15px;
+            cursor: pointer;
+            transition: border-radius 0.1s ease;
+            font-size: 19px;
+        }
+        .who button:hover {
+            border-radius: 3px;
+        }
+        footer {
+            background: black;
+            text-align: center;
+            padding: 10px;
+        }
+        footer a {
+            text-decoration: none;
+            font-size: 17px;
+            color: white;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }

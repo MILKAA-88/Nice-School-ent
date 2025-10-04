@@ -3,7 +3,7 @@
 Nice-School ENT est une plateforme destinée à gérer votre établissement scolaire.
 Notre objectif est de simplifier la manière dont vous administrez votre école, de façon claire et efficace.
 
-Vous pouvez ajouter un nouvel établissement en suivant ce lien : (insérez ici l’URL).
+Vous pouvez ajouter un nouvel établissement en suivant ce lien : https://nice-school-ent.vercel.app/tutoriel-commencement/tuto.html.
 
 ⸻
 

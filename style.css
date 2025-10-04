@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.who button {
+    border-radius: 10px;
+    background: rgb(255, 0, 47);
+    color: white;
+    border: none;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+.who button:hover {
+    border-radius: 3px;
+    transition: 0.1s all;
+}
